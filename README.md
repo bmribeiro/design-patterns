@@ -40,13 +40,13 @@ Structural patterns explain how classes and objects can be composed to form larg
 
 | Pattern | Description | Status |
 |---|---|---|
-| Adapter | Allows incompatible interfaces to work together. | 🚧 |
-| Bridge | Separates an abstraction from its implementation. | 🚧 |
-| Composite | Composes objects into tree structures to represent part-whole hierarchies. | 🚧 |
-| Decorator | Adds responsibilities to objects dynamically without modifying their classes. | 🚧 |
-| Facade | Provides a simplified interface to a complex subsystem. | 🚧 |
-| Flyweight | Reduces memory usage by sharing common object state. | 🚧 |
-| Proxy | Provides a substitute or placeholder for another object to control access to it. | 🚧 |
+| Adapter | Allows incompatible interfaces to work together. | ✅ |
+| Bridge | Separates an abstraction from its implementation. | ✅ |
+| Composite | Composes objects into tree structures to represent part-whole hierarchies. | ✅ |
+| Decorator | Adds responsibilities to objects dynamically without modifying their classes. | ✅ |
+| Facade | Provides a simplified interface to a complex subsystem. | ✅ |
+| Flyweight | Reduces memory usage by sharing common object state. | ✅ |
+| Proxy | Provides a substitute or placeholder for another object to control access to it. | ✅ |
 
 ## Behavioral Patterns
 
@@ -54,16 +54,16 @@ Behavioral patterns focus on communication between objects and the distribution 
 
 | Pattern | Description | Status |
 |---|---|---|
-| Chain of Responsibility | Passes requests along a chain of handlers until one handles the request. | 🚧 |
-| Command | Encapsulates a request as an object. | 🚧 |
-| Iterator | Provides a way to access elements of a collection sequentially without exposing its underlying representation. | 🚧 |
-| Mediator | Centralizes communication between related objects. | 🚧 |
-| Memento | Captures and restores an object's previous state without violating encapsulation. | 🚧 |
-| Observer | Defines a one-to-many dependency so that changes in one object notify its dependents. | 🚧 |
-| State | Allows an object to change its behavior when its internal state changes. | 🚧 |
-| Strategy | Defines a family of algorithms and makes them interchangeable. | 🚧 |
-| Template Method | Defines the skeleton of an algorithm while allowing subclasses to redefine specific steps. | 🚧 |
-| Visitor | Separates an algorithm from the objects on which it operates. | 🚧 |
+| Chain of Responsibility | Passes requests along a chain of handlers until one handles the request. | ✅ |
+| Command | Encapsulates a request as an object. | ✅ |
+| Iterator | Provides a way to access elements of a collection sequentially without exposing its underlying representation. | ✅ |
+| Mediator | Centralizes communication between related objects. | ✅ |
+| Memento | Captures and restores an object's previous state without violating encapsulation. | ✅ |
+| Observer | Defines a one-to-many dependency so that changes in one object notify its dependents. | ✅ |
+| State | Allows an object to change its behavior when its internal state changes. | ✅ |
+| Strategy | Defines a family of algorithms and makes them interchangeable. | ✅ |
+| Template Method | Defines the skeleton of an algorithm while allowing subclasses to redefine specific steps. | ✅ |
+| Visitor | Separates an algorithm from the objects on which it operates. | ✅ |
 
 ## Goals
 
